@@ -1,0 +1,53 @@
+h1{
+  color:Blue;
+  text-align:center;
+}
+.interest{
+  border:solid;
+  border-color:Aqua;
+  background-color:#90EE90;
+  border-radius:25px;
+  padding:10px 0px 10px 10px;
+  margin:0px 1px 1px 2px;
+}
+#other{
+  border:solid;
+  border-color:Aqua;
+  background-color:#90EE90;
+  border-radius:25px;
+  padding:10px 0px 5px 10px;
+  margin:0px 1px 1px 2px;
+}
+.food{
+  border:solid;
+  width:150px;
+  border-color:#006400;
+  background-color:#90EE90;
+}
+.movies{
+   border:solid;
+  width:150px;
+  border-color:#006400;
+  background-color:#90EE90;
+  padding:2px 0px 0px 0px;
+  margin:2px 0px 2px 0px;
+}
+#place{
+  border:solid;
+  width:200px;
+  border-color:#006400;
+  background-color:#90EE90;
+  padding:2px 0px 0px 0px;
+  margin:2px 0px 2px 0px;
+}
+.education{
+  border:solid;
+  text-align:center;
+  background-color:#F0FFF0;
+  border-color:#7CFC00;
+  margin:15px;
+  border-radius:25px;
+}
+body{
+  background-color:#20B2AA;
+}
